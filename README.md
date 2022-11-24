@@ -1,5 +1,6 @@
 ![header](/header.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Fullstack+Developer+and+...;UX/UI+and+Industrial+Designer)](https://git.io/typing-svg)
+
 I love to create, so I decided to became a Designer who could develop projects!
 I am familiar with design thinking and methodologies such as User-Centered Design and I have knowledge in Web Development and Android Development, so I have a broad overview of the entire digital product development process.
 ```javascript
